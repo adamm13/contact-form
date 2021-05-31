@@ -2,8 +2,28 @@ body {
   margin: 0;
   padding: 0;
   text-align: center;
-  background: linear-gradient(rgbaaa(0, 0, 50, 0.5), rgba(0, 0, 50, 0.5)),url(pic1.jpeg);
-  background-size: cover;
+  background: linear-gradient(rgba(0, 0, 50, 0.5), rgba(0, 0, 50, 0.5)),url(pic1.jpeg);
   background-position: center;
-  font-family: sans-serif
+  background-size: cover;
+  font-family: sans-serif;
+}
+
+html {
+   height: 100%;
+}
+
+.contact-title {
+  margin-top: 100px;
+  color: #fff;
+  text-transform: uppercase;
+  transition: all 4s ease-in;
+}
+
+.contact-title h1 {
+  font-size: 32px;
+  line-height:  10px;
+}
+
+.contact-title h2{
+  font-size: 16px;
 }
