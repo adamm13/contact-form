@@ -7,7 +7,7 @@ This simple contact form was created to practice using basic PHP to create a for
 ## Screenshots
 
 <p align="center">
-<img src=""/>
+<img src="https://github.com/adamm13/contact-form/blob/master/display.png"/>
 </p>
 
 ---
